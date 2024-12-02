@@ -31,7 +31,7 @@ L'Aimant : Le power-up Aimant attire automatiquement les pièces d’or et d’a
 
 
 ## Visuels 
-* [Vidéo de Gameplay](GAMEPLAY/gameplay_video.mp4)
+* [Vidéo de Gameplay](https://drive.google.com/file/d/1KOmQsKTgUckujRBYurmyjZouOeMhSF41/view?usp=drive_link)
 
 * [Image de Gameplay](GAMEPLAY/gameplay_screenshot.png) 
 ## Installation des dépendances
